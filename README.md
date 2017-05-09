@@ -8,7 +8,7 @@ vdstat is the server statistics table monitor for SYSTEM ADMIN LINUX SERVER, pur
 1. Get vdstat English language version:
 -------------
 ```
-curl -L https://github.com/duy13/VDSTAT/raw/master/vdstat-en -o /usr/bin/vdstat
+curl -L https://github.com/minhnkt/VDSTAT/raw/master/vdstat-en -o /usr/bin/vdstat
 chmod 700 /usr/bin/vdstat
 /usr/bin/vdstat
 ```
@@ -18,7 +18,7 @@ chmod 700 /usr/bin/vdstat
 2. Tải vdstat Bản Tiếng Việt:
 -------------
 ```
-curl -L https://github.com/duy13/VDSTAT/raw/master/vdstat-vn -o /usr/bin/vdstat
+curl -L https://github.com/minhnkt/VDSTAT/raw/master/vdstat-vn -o /usr/bin/vdstat
 chmod 700 /usr/bin/vdstat
 /usr/bin/vdstat
 ```
@@ -26,7 +26,7 @@ chmod 700 /usr/bin/vdstat
 Program interface:
 -------------
 ```
-########### The server statistics table for SYSTEM ADMIN LINUX SERVER VO DUY DOT COM: ########### TIME:21H31-DATE:18-02-2017 ###########
+########### The server statistics table for SYSTEM ADMIN LINUX SERVER: ########### TIME:21H31-DATE:18-02-2017 ###########
 
         CPU usage: ~0.00%       RAM usage: ~3673MB                              IO usage:       ~0MB/s READ
                                                                                                 ~2MB/s WRITE
@@ -68,7 +68,7 @@ Thank you for using!
 Giao diện chương trình:
 -------------
 ```
-########### Bảng thống kê máy chủ dành cho SYSTEM ADMIN LINUX SERVER VÕ DUY DOT COM: ########### GIỜ:09H36-NGÀY:19-02-2017 ###########
+########### Bảng thống kê máy chủ dành cho SYSTEM ADMIN LINUX SERVER: ########### GIỜ:09H36-NGÀY:19-02-2017 ###########
 
         Xung nhịp CPU đang dùng là: ~0.14%      Lượng RAM đang dùng là: ~3682MB         Tốc độ tải IO ổ cứng đang là:   ~1MB/s ĐỌC
                                                                                                                         ~0MB/s GHI
@@ -100,11 +100,4 @@ Những IP Address kết nối nhiều nhất đến:
 
 Cám ơn bạn đã sử dụng!
 
-```
-3. More Config:
----------------
-Document: http://vddos.voduy.com
-
-```
-Still in beta, run at own risk! This it provided without any warranty!
 ```
