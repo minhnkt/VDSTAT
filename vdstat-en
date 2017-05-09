@@ -77,7 +77,7 @@ echo '########### The server statistics table for SYSTEM ADMIN LINUX SERVER: ###
 	 Port 443: '$port443thietlap' connections					|	Outgoing: '$bwtruyendi'KB/s
 
 '"$column"'
-
+'
 
 
 
