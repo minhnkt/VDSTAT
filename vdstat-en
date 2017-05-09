@@ -65,7 +65,7 @@ column=`pr -mT  --width=145 --page-width=145 <(echo "IP Address request much:"; 
 
 date=`TZ=America/New_York date +"TIME:%HH%M-DATE:%d-%m-%Y"`
 clear
-echo '########### The server statistics table for SYSTEM ADMIN LINUX SERVER VO DUY DOT COM: ########### '$date' ###########
+echo '########### The server statistics table for SYSTEM ADMIN LINUX SERVER: ########### '$date' ###########
 
 	CPU usage: ~'$CPUdangdung'%	RAM usage: ~'$RAMdangdung'MB				IO usage:	~'$IOdangdung_doc'MB/s READ
 												~'$IOdangdung_ghi'MB/s WRITE 				
