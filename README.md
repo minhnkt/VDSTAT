@@ -80,7 +80,7 @@ Giao diện chương trình:
          Port 443: 0 kết nối                                    |       Đang truyền đi là: 80KB/s
 
 Những IP Address kết nối nhiều nhất đến:
-     58 112.8.43.10 www.voduy.com
+     58 112.8.43.10 www.afcteam.com
       6 66.249.82.96 google-proxy-66-249-82-96.google.com
       6 66.249.82.127 google-proxy-66-249-82-127.google.com
       6 171.246.203.135
